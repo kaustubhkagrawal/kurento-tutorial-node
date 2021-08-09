@@ -184,3 +184,9 @@ Before asking for support, please read first the [Kurento Netiquette Guidelines]
 [kurento-client-js]: https://github.com/Kurento/kurento-client-js
 [kurento-utils-js]: https://github.com/Kurento/kurento-utils-js
 [Node.js]: http://nodejs.org/
+
+
+
+## Self Signed Certificate
+[kurento docs] https://doc-kurento.readthedocs.io/en/stable/knowledge/selfsigned_certs.html
+
